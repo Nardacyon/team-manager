@@ -14,8 +14,6 @@
 
    * [Test](#test) 
 
-   * [Credits](#credits) 
-
    * [License](#license) 
 
    * [Questions](#questions) 
@@ -32,12 +30,15 @@
 
   ## Installation: 
   To install you will need to install the dependencies for the CLI app.
+  
     npm i 
     npm i inquirer path fs
 
   ## Usage:
   To use, run the command line:
+  
     node app.js 
+    
   Make sure to have dependencies installed. Follow along and answer all questions to your preference and when completed you will see your results in the team.html file in the output folder.
 
   ## Contributing: 
@@ -45,6 +46,7 @@
 
   ## Test: 
   Tests can be found in the 'test' folder. These tests can be done using jest.
+  
     npm jest --save-dev
 
   ## License:  
